@@ -1,8 +1,7 @@
 # Railway_Reservation_system
 Railway_Reservation_system Project Implementing Queue Data Structure.
 
-
-###################################################
+ 
 It has following features:
 1}.ADMIN LOGIN : This option has 4 features :
               Display All Bookings
